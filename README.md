@@ -1,6 +1,25 @@
-# codingsh
+# Codingsh
+```
+// test, code, write, test  and code
+// this is the flow of life.
+$ ./coding.sh
+```
+
 
 > developer notes
+> I speak these programming languages:
+  - Javascript 
+  - Golang
+  - Rust 
+  - Python
+  - Solidity
+
+> The Web3.0 Time has come!!
+  + Substrate 
+  + sr25519
+  + Polkadot 
+  + go-ethereum
+  + WebAssembly
 
 ## Build Setup
 
@@ -18,6 +37,3 @@ $ npm start
 # generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
-

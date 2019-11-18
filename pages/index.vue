@@ -54,5 +54,17 @@
 .links {
   padding-top: 15px;
 }
+
+@media (max-width: 600px) {
+  .title {
+    font-size: 21px;
+  }
+  .subtitle {
+    font-size: 20px;
+  }
+  .links {
+    display: none;
+  }
+}
 </style>
 
