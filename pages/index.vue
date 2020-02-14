@@ -1,26 +1,7 @@
 <template>
   <section class="container">
     <div>
-      <h1 class="title">
-        codingsh | @codingsh
-      </h1>
-      <h2 class="subtitle">
-        developer notes
-      </h2>
-      <div class="links">
-        <a
-          href="https://twitter.com/codingsh"
-          target="_blank"
-          class="button--green">Twitter</a>
-        <a
-          href="https://github.com/developerfred"
-          target="_blank"
-          class="button--grey">GitHub</a>
-        <a
-          href="https://instagram.com/codingshxyz"
-          target="_blank"
-          class="button--grey">Intagram</a>
-      </div>
+        <h1>code. @codingsh</h1>
     </div>
   </section>
 </template>
@@ -67,4 +48,3 @@
   }
 }
 </style>
-
