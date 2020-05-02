@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/codignsh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://codingsh.xyz
+  * I am codignsh (https://keybase.io/codignsh) on keybase.
+  * I have a public key ASCMsKEiS7jl3EQ3FJjK74CGTwFRYtxNu7ONLUDECqZoEwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208cb0a1224bb8e5dc44371498caef80864f015162dc4dbbb38d2d40c40aa668130a",
+      "host": "keybase.io",
+      "kid": "01208cb0a1224bb8e5dc44371498caef80864f015162dc4dbbb38d2d40c40aa668130a",
+      "uid": "11b86b2de6c193052564925da0225b19",
+      "username": "codignsh"
+    },
+    "merkle_root": {
+      "ctime": 1588371600,
+      "hash": "6bee856fe8217acb157dd2fe01a5df4814a21d0f9e581523490c2c656f7c062fbbb7ab6761d2b5a3778fd018890d73bc9597043245aaa32aed6b5369dd028e48",
+      "hash_meta": "58240e03496888c2e0074de6bb99d17f8a4030cd4eccf6cf5d00059a03b0607e",
+      "seqno": 16126771
+    },
+    "service": {
+      "entropy": "dgASgZ6IZoS0qTHxYkWA1UA5",
+      "hostname": "codingsh.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1588378438,
+  "expire_in": 504576000,
+  "prev": "3529cc8d7a168859c0af28cfaa429439782053e435f54db5d11902021b99cd09",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgjLChIku45dxENxSYyu+Ahk8BUWLcTbuzjS1AxAqmaBMKp3BheWxvYWTESpcCCcQgNSnMjXoWiFnAryjPqkKUOXggU+Q19U210RkCAhuZzQnEIItnjYkQk3xxPOT6K1zqo2tWlpibY/YgA3C8nF0T7BjDAgHCo3NpZ8RAZINa51L/BP9y9j31zoyjtXqiRk4xwlDIqDuVZfEZeNSAsYU8D91TgNvTq4wzGgSuRlGiGfbBxD7Nd/Me1Vf/AKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJrSwe23QLhMPauHiKooKDof560PeXqjQi7U2Fs7JLGYo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/codignsh
+
+==================================================================
