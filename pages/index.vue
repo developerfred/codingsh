@@ -2,6 +2,7 @@
   <section class="container">
     <div>
         <h1>code. @codingsh</h1>
+        <p>I'm a specialist blockchain developer, I'm cooking all the time, these are my main <a href="https://twitter.com/codingsh/status/1347788648243200000?s=20uF">dishes</a>. I surf the blockchain in a spaceship.</p>
     </div>
   </section>
 </template>

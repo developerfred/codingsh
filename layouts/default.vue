@@ -1,7 +1,14 @@
 <template>
-  <div>
-    <nuxt/>
-  </div>
+  <CThemeProvider>
+    <CReset />
+    <CButton>
+      <a href="https://bscscan.com/token/0xdc461a5b7dd3527612867b08a2ccc87416b44879">Token</a>
+    </CButton>
+    <Nuxt />
+    <CButton>
+      <a href="https://twitter.com/codingsh">⚡️Twitter</a>
+    </CButton>
+  </CThemeProvider>
 </template>
 
 <style>
@@ -50,4 +57,16 @@ html {
   background-color: #35495e;
 }
 </style>
+<script>
 
+import { CThemeProvider, CReset, CButton } from '@chakra-ui/vue'
+
+export default {
+  name: 'DefaultLayout',
+  components: {
+    CThemeProvider,
+    CReset,
+    CButton
+  }
+}
+</script>
